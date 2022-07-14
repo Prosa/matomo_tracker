@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:matomo_tracker/matomo_tracker.dart';
+import 'package:matomo_tracker/src/tracking_order_item.dart';
 
 
 /// Register a `trackScreenWithName` on this widget.
